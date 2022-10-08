@@ -16,7 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-
+- [Vanessa Goetsa](https://github.com/vanessagoetsa)
 
 ### Adiciona o teu nome
 
